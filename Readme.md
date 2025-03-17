@@ -6,6 +6,10 @@ This project analyzes customer churn in a bank using machine learning techniques
 ## Dataset
 - **Source**: [Kaggle - Bank Customer Churn Dataset](https://www.kaggle.com/datasets/ramyhafez/bank-customer-churn/data)
 - **Description**: Account information for 10,000 customers at a European bank, including details on their credit score, balance, products, and whether they have churned. The dataset includes demographic and financial details of bank customers along with a churn indicator. 
+- **Data Structure**
+  - Single table
+  - Number Of Records: 10,000
+  - Number Of Fields: 13
 - **Features**:
   - `CustomerId`: Unique ID for each customer
   - `Surname`: Customer's last name
